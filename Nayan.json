@@ -6,7 +6,7 @@
   "language": "en",
   "notification": false,
   "approval": true,
-  "saveState": true,
+  "saveState": false,
   "BOTNAME": "mini-bot",
   "PREFIX": "-",
   "OPERATOR": [
